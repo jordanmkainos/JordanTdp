@@ -1,5 +1,7 @@
 Original!
 
-feature A consistent code
+feature A consistent code (Changed)
 
 sub feature A
+
+subFeature B
