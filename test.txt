@@ -7,3 +7,5 @@ sub feature A
 sub feature B
 
 sub feature C
+
+sub feature D
