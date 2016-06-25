@@ -1,7 +1,9 @@
 Original!
 
-feature A consistent code (Changed)
+feature A consistent code - feature added
 
 sub feature A
 
-subFeature B
+sub feature B
+
+sub feature C
