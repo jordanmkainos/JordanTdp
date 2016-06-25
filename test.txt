@@ -1,1 +1,9 @@
 Original!
+
+feature A consistent code - feature added
+
+sub feature A
+
+sub feature B
+
+sub feature C
