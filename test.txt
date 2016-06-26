@@ -4,7 +4,7 @@ feature A consistent code - team member added code
 
 sub feature A (jordan edited feature with suggestions)
 
-sub feature B
+sub feature B (Jordan edit)
 
 sub feature C
 
