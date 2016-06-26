@@ -2,7 +2,7 @@ Original!
 
 feature A consistent code - feature added
 
-sub feature A (jordan edited feature)
+sub feature A (jordan edited feature with suggestions)
 
 sub feature B
 
